@@ -1,6 +1,6 @@
 {
   "name": "atom-auto-lightdark-mode",
-  "main": "./lib/main",
+  "main": "./main",
   "version": "0.0.0",
   "description": "A short description of your package",
   "keywords": [
